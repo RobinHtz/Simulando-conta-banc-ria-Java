@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ee5bfb4f-7975-4587-bc32-2ca40092163f" name="Changes" comment="Commitando classe conta terminal.">
-      <change beforePath="$PROJECT_DIR$/ContaBanco/src/ContaTerminal.java" beforeDir="false" afterPath="$PROJECT_DIR$/ContaBanco/src/ContaTerminal.java" afterDir="false" />
-    </list>
+    <list default="true" id="ee5bfb4f-7975-4587-bc32-2ca40092163f" name="Changes" comment="Commit final com programa funcionando." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,11 +68,20 @@
       <option name="project" value="LOCAL" />
       <updated>1721506673892</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Commit final com programa funcionando.">
+      <option name="closed" value="true" />
+      <created>1721508046929</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721508046929</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commitando classe conta terminal." />
-    <option name="LAST_COMMIT_MESSAGE" value="Commitando classe conta terminal." />
+    <MESSAGE value="Commit final com programa funcionando." />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit final com programa funcionando." />
   </component>
 </project>
